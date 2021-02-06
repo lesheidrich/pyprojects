@@ -1,5 +1,5 @@
 # pyprojects
-Python practice projects
+A collection of Python practice projects from beginner to advanced.
 
 Beginner level projects:
 
