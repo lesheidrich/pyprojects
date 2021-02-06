@@ -1,4 +1,7 @@
 # pyprojects
 Python practice projects
 
-Tests given input of a single year or range of years >> returns strings identifying leap years and not leap years
+<u>Beginner level projects:</u>
+Caesarian_Cipher.py
+Rock_Paper_Scissors_Lizard_Spock.py
+leap_year_app.py
