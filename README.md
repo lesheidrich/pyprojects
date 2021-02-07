@@ -1,4 +1,5 @@
 # pyprojects
-Python practice projects
-
-Tests given input of a single year or range of years >> returns strings identifying leap years and not leap years
+Hangman Procedural - Python practice projects
+---------------------------------------------
+* Desc: classic hangman game
+* Learned: good overview of procedural programming, utilizing functions, parameters and args
