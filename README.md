@@ -8,3 +8,4 @@ BEGINNER PROJECTS:
 * [Rock Paper Scissors Lizard Spock](https://github.com/lesheidrich/pyprojects/blob/Rock-Paper-Scissors-Lizard-Spock/Rock_Paper_Scissors_Lizard_Spock.py) ==> use of logical operators in if-else functions, made for future tkinter project... and because I wanted to :)
 * [Caesarian_Cipher](https://github.com/lesheidrich/pyprojects/blob/Caesar-Cipher/Caesarian_Cipher.py) ==> auto modding function for multiple purposes through parameters and recycled arguments, continued array looping with modulus
 * [Hangman Procedural Prog](https://github.com/lesheidrich/pyprojects/blob/Hangman-Procedural/Hangman_Procedural.py)  ==> good overview of procedural programming, utilizing functions, parameters and args
+* [Number Guessing Game]() ==> procedural programming for further function practice, utilizing global vs local variables
