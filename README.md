@@ -1,6 +1,6 @@
 # pyprojects
 A collection of Python practice projects categorized by difficulty.
-Files <b>are</b> appended with side notes of what I learned, or found useful for my development.
+Files <b style: text-color: red;>are</b> appended with side notes of what I learned, or found useful for my development.
 
 BEGINNER PROJECTS:
 ------------------
