@@ -1,7 +1,6 @@
 # pyprojects
 A collection of Python practice projects categorized by difficulty.
 Files are appended with side notes of what I learned, or found useful for my development.
-<p>My mother has <span style="color:blue">blue</span> eyes.</p>
 
 BEGINNER PROJECTS:
 ------------------
