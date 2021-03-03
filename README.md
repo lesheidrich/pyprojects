@@ -1,6 +1,6 @@
 # pyprojects
 A collection of Python practice projects categorized by difficulty.
-Files <b style: text-color: red;>are</b> appended with side notes of what I learned, or found useful for my development.
+Files <span style="color:red">are</span> appended with side notes of what I learned, or found useful for my development.
 
 BEGINNER PROJECTS:
 ------------------
